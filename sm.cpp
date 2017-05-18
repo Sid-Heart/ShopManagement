@@ -7,6 +7,7 @@ using namespace std;
 void getch(){
 	cout<<"* Press Enter *"<<flush;
 	getchar();
+	getchar();
 }
 
 void clrscr() {
